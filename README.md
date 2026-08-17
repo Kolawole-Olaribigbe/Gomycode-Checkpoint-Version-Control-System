@@ -13,7 +13,7 @@ Version Control System Checkpoint
 ├── add content      
 ├── note1.md           
 ├── note2.md              
-└── docs                   
+└── pre commit hooks added                   
 ```
 
 
